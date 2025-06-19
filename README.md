@@ -48,7 +48,7 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot that allo
 
 ## Usage
 - Open the web app in your browser.
-- Ask questions about the document; the chatbot will retrieve relevant context and generate grounded answers.
+- Ask questions about the document, the chatbot will retrieve relevant context and generate grounded answers.
 - Sources for each answer are displayed for transparency.
 
 ## Acknowledgments
