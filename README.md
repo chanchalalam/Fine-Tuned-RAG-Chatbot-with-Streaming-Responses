@@ -1,10 +1,4 @@
 # Fine-Tuned RAG Chatbot with Streaming Responses
-
-**Author:** Chanchal Alam  
-**Assignment for:** Amlgo Labs
-
----
-
 ## Project Overview
 This project implements a Retrieval-Augmented Generation (RAG) chatbot that allows users to interactively query the contents of a PDF document. The system leverages semantic search and a local large language model (LLM) to provide accurate, context-grounded answers with streaming responses via a user-friendly web interface.
 
